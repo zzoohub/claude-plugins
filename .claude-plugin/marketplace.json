@@ -11,7 +11,8 @@
       "category": "development",
       "source": {
         "source": "url",
-        "url": "https://github.com/zzoohub/claude-harness.git"
+        "url": "https://github.com/zzoohub/claude-harness.git",
+        "sha": "e4c881fe52e1a6d25712404177c25ee79ad8c0f0"
       },
       "homepage": "https://github.com/zzoohub/claude-harness"
     }
