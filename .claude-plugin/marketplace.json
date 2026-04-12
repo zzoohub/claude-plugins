@@ -12,7 +12,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zzoohub/claude-harness.git",
-        "sha": "12081cb75d6fc7c5842d3b0c5a1af9519bf07eeb"
+        "sha": "e190aa0fde19d31da2d95f1d3607370ad700b5e5"
       },
       "homepage": "https://github.com/zzoohub/claude-harness"
     }
